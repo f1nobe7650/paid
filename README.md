@@ -31,18 +31,19 @@ Slingshot
 Reverse 
 
 # Rage Tab
+
 Target Aim  
 Fully Customizable part (material,size,transparency,part type,rainbow) 
 Look At 
 ChatMode 
 Resolver 
 Notifications 
--
+
 Target Strafe (Circles Your Target)
 Distance 
 Speed 
 Height 
--
+
 Camlock 
 Resolver 
 Prediction 
