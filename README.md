@@ -32,7 +32,7 @@ Reverse
 
 # Rage Tab
 
-# Target Aim 
+Target Aim 
 Fully Customizable part (material,size,transparency,part type,rainbow)
 Look At
 ChatMode
