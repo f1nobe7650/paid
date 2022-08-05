@@ -3,9 +3,13 @@
 # INFO MUST READ
 
 Official Discord : https://discord.gg/R6HMPgGV6U
+
 Made By : Finobe
+
 Guranteed In 24 Hours You Get Your Key
+
 Trial Keys for 3 days are available.
+
 
 # Features: 
 
